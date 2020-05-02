@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1184f36b-4f05-460a-b499-80fbbfdeecd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04-jpa-start2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/role/RoleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/member/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/role/RoleType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/clean.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +39,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ch04-model1/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -93,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588333359832</updated>
       <workItem from="1588333362773" duration="86000" />
-      <workItem from="1588390436408" duration="6540000" />
+      <workItem from="1588390436408" duration="6893000" />
     </task>
     <servers />
   </component>
@@ -109,6 +101,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="816" y="415" width="415" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588392901571" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1588402035606">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588402035606" />
     <state width="2005" height="432" key="GridCell.Tab.0.bottom" timestamp="1588394019103">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
