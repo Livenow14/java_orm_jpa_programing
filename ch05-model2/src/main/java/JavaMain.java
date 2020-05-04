@@ -35,6 +35,10 @@ public class JavaMain {
 
             //5.2.5 연관된 엔티티 삭제, 연관된 엔티티를 삭제하려면 기존에 있던 연관관계를 먼저 제거하고 삭제해야 한다. 안그러면 외래키 제약조건으로 인해, 오류가 발생한다.
 
+            //5.6 양방향 연관관계의 주의점, 가장 흔히 하는 실수는 연관관계의 주인에는 값을 입력하지 않고, 주인이 아닌 곳에만 값을 입력하는 것이다.
+
+            // 5.6.2 연관관계 편의 메서드
+            testORM_양방향_리팩토링(em);
 
             tx.commit();//트랜잭션 커밋
 
@@ -46,6 +50,21 @@ public class JavaMain {
         }
 
         emf.close(); //엔티티 매니저 팩토리 종료
+    }
+
+    private static void testORM_양방향_리팩토링(EntityManager em) {
+        Team team1 = new Team();
+        team1.setId("team2");
+        team1.setName("팀2");
+        em.persist(team1);
+
+        //회원1 저장
+        Member member1 = new Member();
+        member1.setId("member1");
+        member1.setName("회원1");
+        member1.setTeam(team1);         //양방향 설정
+        em.persist(member1);
+
     }
 
     private static void deleteRelation(EntityManager em) {

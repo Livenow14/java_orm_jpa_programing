@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1184f36b-4f05-460a-b499-80fbbfdeecd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/src/main/java/JavaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/JavaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/JavaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/JavaMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

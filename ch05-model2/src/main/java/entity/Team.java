@@ -28,5 +28,4 @@ public class Team {
                                                 // 연관관계의 주인만 데이터베이스 연관관계와 매핑되고 외래 키를 관리할 수 있다. 주인이 아닌 반대편은 읽기만 가능하고 외래키를 변경하지는 못한다.
     List<Member> members = new ArrayList<>();
 
-
 }
