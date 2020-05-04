@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1184f36b-4f05-460a-b499-80fbbfdeecd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/clean.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/java/jpabook/model/entity/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch04-model1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/ch05-model2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/role/RoleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/JavaMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/PhysicalNamingStrategyImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/OrderStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/role/RoleType.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
@@ -85,12 +102,17 @@
       <option name="presentableId" value="Default" />
       <updated>1588333359832</updated>
       <workItem from="1588333362773" duration="86000" />
-      <workItem from="1588390436408" duration="6893000" />
+      <workItem from="1588390436408" duration="7704000" />
+      <workItem from="1588434065077" duration="48000" />
+      <workItem from="1588434218139" duration="1227000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="617" y="215" key="#Project_Structure" timestamp="1588390980564">
@@ -105,29 +127,29 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588402035606" />
-    <state width="2005" height="432" key="GridCell.Tab.0.bottom" timestamp="1588394019103">
+    <state width="2005" height="432" key="GridCell.Tab.0.bottom" timestamp="1588433756571">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="432" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588394019103" />
-    <state width="2005" height="432" key="GridCell.Tab.0.center" timestamp="1588394019103">
+    <state width="2005" height="432" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588433756571" />
+    <state width="2005" height="432" key="GridCell.Tab.0.center" timestamp="1588433756571">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="432" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588394019103" />
-    <state width="2005" height="432" key="GridCell.Tab.0.left" timestamp="1588394019102">
+    <state width="2005" height="432" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588433756571" />
+    <state width="2005" height="432" key="GridCell.Tab.0.left" timestamp="1588433756571">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="432" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588394019102" />
-    <state width="2005" height="432" key="GridCell.Tab.0.right" timestamp="1588394019103">
+    <state width="2005" height="432" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588433756571" />
+    <state width="2005" height="432" key="GridCell.Tab.0.right" timestamp="1588433756571">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="432" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588394019103" />
-    <state x="533" y="198" key="SettingsEditor" timestamp="1588393604083">
+    <state width="2005" height="432" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588433756571" />
+    <state x="533" y="198" key="SettingsEditor" timestamp="1588402277954">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="533" y="198" key="SettingsEditor/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588393604083" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1588393598563">
+    <state x="533" y="198" key="SettingsEditor/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588402277954" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1588402275345">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588393598563" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588402275345" />
   </component>
 </project>
