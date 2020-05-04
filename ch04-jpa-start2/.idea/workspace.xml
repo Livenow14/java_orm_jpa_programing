@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1184f36b-4f05-460a-b499-80fbbfdeecd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/ch05-model2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/entity/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/java/role/RoleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/JavaMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/PhysicalNamingStrategyImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/OrderItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/entity/OrderStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/role/RoleType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
