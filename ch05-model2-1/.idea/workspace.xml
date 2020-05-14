@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a58b83-42b6-4700-ae9a-7178ddbf11f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05-model2-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch04-jpa-start2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-jpa-start2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,18 +82,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588590831972</updated>
-      <workItem from="1588590834900" duration="2802000" />
+      <workItem from="1588590834900" duration="3208000" />
+      <workItem from="1588597047913" duration="3709000" />
+      <workItem from="1589439657629" duration="247000" />
     </task>
+    <task id="LOCAL-00001" summary="5장_실전예제 2_연관관계 매핑 시작">
+      <created>1588594381685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588594381685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5장_실전예제 2_연관관계 매핑 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="5장_실전예제 2_연관관계 매핑 시작" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="399" y="150" key="CommitChangelistDialog2" timestamp="1588594381079">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="399" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588594381079" />
+    <state x="805" y="311" width="536" height="489" key="FileChooserDialogImpl" timestamp="1589439757615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" width="536" height="489" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1589439757615" />
     <state x="812" y="150" key="SettingsEditor" timestamp="1588591003512">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="812" y="150" key="SettingsEditor/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588591003512" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1588594383322">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1588594383322" />
+    <state x="436" y="158" key="new project wizard" timestamp="1589439838421">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="436" y="158" key="new project wizard/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1589439838421" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1588590986478">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
