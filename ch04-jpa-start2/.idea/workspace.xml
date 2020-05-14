@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1184f36b-4f05-460a-b499-80fbbfdeecd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch05-model2-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3-1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +84,7 @@
       <workItem from="1588390436408" duration="7704000" />
       <workItem from="1588434065077" duration="48000" />
       <workItem from="1588434218139" duration="1227000" />
+      <workItem from="1589442678143" duration="9000" />
     </task>
     <servers />
   </component>

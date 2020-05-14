@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a58b83-42b6-4700-ae9a-7178ddbf11f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/java/domain/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch06-model3/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/java/domain/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3-1/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch04-jpa-start2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-jpa-start2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3-1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3-1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3-1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +84,7 @@
       <workItem from="1588590834900" duration="3208000" />
       <workItem from="1588597047913" duration="3709000" />
       <workItem from="1589439657629" duration="247000" />
+      <workItem from="1589443458425" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="5장_실전예제 2_연관관계 매핑 시작">
       <created>1588594381685</created>
