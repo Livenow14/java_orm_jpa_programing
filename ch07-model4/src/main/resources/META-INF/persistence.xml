@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence">
+
+
+    <persistence-unit name="jpabook">
+
+
+    <properties>
+
+    <!-- 필수 속성 -->
+
+
+    <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>
+
+    <property name="javax.persistence.jdbc.user" value="sa"/>
+
+    <property name="javax.persistence.jdbc.password" value=""/>
+
+    <property name="javax.persistence.jdbc.url" value="jdbc:h2:tcp://localhost/~/jpaorm"/>
+
+    <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
+
+    <!-- 옵션 -->
+
+       <!-- 기본 매핑 이름 카멜 표기법을 데이터베이스 관례상 용어로 바꿈, 하버네이트 5부터는 적용되지 않아 직접 만듬 -->
+       <property name="hibernate.physical_naming_strategy" value="PhysicalNamingStrategyImpl" />
+
+    <property name="hibernate.show_sql" value="true"/>
+
+    <property name="hibernate.format_sql" value="true"/>
+
+    <property name="hibernate.use_sql_comments" value="true"/>
+
+       <!-- 키 생성 전략을 사용하려면 true로 지정-->
+    <property name="hibernate.id.new_generator_mappings" value="true"/>
+
+    <property name="hibernate.hbm2ddl.auto" value="create" />
+
+
+
+</properties>
+
+</persistence-unit>
+
+</persistence>

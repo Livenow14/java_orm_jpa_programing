@@ -5,33 +5,33 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.livenow</groupId>
-    <artifactId>ch06-model3-1</artifactId>
+    <artifactId>ch07-model4</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
 
-    <!-- 기본 설정 -->
+        <!-- 기본 설정 -->
 
 
-    <java.version>1.8</java.version>
+        <java.version>1.8</java.version>
 
-    <!-- 프로젝트 코드 인코딩 설정 -->
-
-
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
-    <!-- JPA, 하이버네이트 버전 -->
+        <!-- 프로젝트 코드 인코딩 설정 -->
 
 
-    <hibernate.version>5.3.10.Final</hibernate.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <!-- 데이터베이스 버전 -->
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+        <!-- JPA, 하이버네이트 버전 -->
 
 
-    <h2db.version>1.4.199</h2db.version>
+        <hibernate.version>5.3.10.Final</hibernate.version>
 
-</properties>
+        <!-- 데이터베이스 버전 -->
+
+
+        <h2db.version>1.4.199</h2db.version>
+
+    </properties>
 
 
     <dependencies>
@@ -78,6 +78,5 @@
         </dependency>
 
     </dependencies>
-
 
 </project>
