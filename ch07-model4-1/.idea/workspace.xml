@@ -2,30 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f3596e-8a4d-4e94-b080-5207bb52ae1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07-model4-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/DeliveryStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/item/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/item/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/item/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/item/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/ch08-model5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/DeliveryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/proxyExam/Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/proxyExam/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/proxyExam/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +93,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590379433418</updated>
-      <workItem from="1590379437046" duration="631000" />
+      <workItem from="1590379437046" duration="2037000" />
     </task>
+    <task id="LOCAL-00001" summary="7장_고급 매핑_4.실습(BaseEntity 상속을통한 등록, 수정 시간 추가 )">
+      <created>1590380210704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590380210704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,12 +110,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="7장_고급 매핑_4.실습(BaseEntity 상속을통한 등록, 수정 시간 추가 )" />
+    <option name="LAST_COMMIT_MESSAGE" value="7장_고급 매핑_4.실습(BaseEntity 상속을통한 등록, 수정 시간 추가 )" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1129" y="218" key="#Project_Structure" timestamp="1590379459054">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1129" y="218" key="#Project_Structure/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1590379459053" />
+    <state x="399" y="150" key="CommitChangelistDialog2" timestamp="1590380209966">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="399" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1590380209966" />
     <state x="555" y="211" key="Maven.ArtifactSearchDialog" timestamp="1590379681999">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -111,6 +130,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1010" y="134" key="SettingsEditor/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1590379524105" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1590380212712">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1590380212712" />
+    <state x="436" y="258" key="new project wizard" timestamp="1590384162829">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="436" y="258" key="new project wizard/0.0.2048.1112/2560.0.864.1496@0.0.2048.1112" timestamp="1590384162829" />
     <state x="1198" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1590379519819">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
