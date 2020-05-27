@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f3596e-8a4d-4e94-b080-5207bb52ae1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/ch08-model5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/PhysicalNamingStrategyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/DeliveryStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/item/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/proxyExam/Logic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/proxyExam/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/java/domain/proxyExam/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ch08-model5/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5-1/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5-1/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jpabook" beforeDir="false" afterPath="$PROJECT_DIR$/../jpabook" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590379433418</updated>
-      <workItem from="1590379437046" duration="2037000" />
+      <workItem from="1590379437046" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="7장_고급 매핑_4.실습(BaseEntity 상속을통한 등록, 수정 시간 추가 )">
       <created>1590380210704</created>
