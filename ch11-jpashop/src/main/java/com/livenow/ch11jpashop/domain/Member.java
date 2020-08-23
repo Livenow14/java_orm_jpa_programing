@@ -1,4 +1,3 @@
-/*
 package com.livenow.ch11jpashop.domain;
 
 
@@ -19,7 +18,7 @@ public class Member {
     @Id @GeneratedValue
     @Column(name = "member_idx")
     private Long idx;
-
+/*
     private String name;
 
     @Embedded
@@ -29,10 +28,8 @@ public class Member {
     private List<Order> orders = new ArrayList<>();
 
     @Builder
-    public Member(Long idx, String name, Address address){
-        this.idx=idx;
+    public Member(String name, Address address){
         this.name=name;
         this.address=address;
-    }
+    }*/
 }
-*/

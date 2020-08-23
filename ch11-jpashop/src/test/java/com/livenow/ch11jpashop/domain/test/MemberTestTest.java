@@ -33,7 +33,9 @@ class MemberTestTest {
 
         //when
         team.getMembers().add(member);
+        //cascade 옵션으로 자동적으로 같이 저장됨
         memberTestRepository.save(member);
+
 
         //then
         MemberTest member1 = memberTestRepository.findAll().get(0);

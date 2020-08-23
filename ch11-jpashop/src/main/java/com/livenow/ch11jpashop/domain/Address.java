@@ -1,4 +1,3 @@
-/*
 package com.livenow.ch11jpashop.domain;
 
 import lombok.AccessLevel;
@@ -16,4 +15,3 @@ public class Address {
     private String street;
     private String zipcode;
 }
-*/
